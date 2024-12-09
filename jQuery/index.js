@@ -1,0 +1,1 @@
+$("h1").css("color", "red").text("bye").addClass("big-text margin-50");
